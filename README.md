@@ -25,7 +25,7 @@ Creating an order summary card where users should be able to see hover states fo
 
 ### Links
 
-- [Live Site URL](https://order-summarycomponent.netlify.app)
+- [Live Site URL](https://piggame-with-js.netlify.app)
 
 ## My process
 
