@@ -17,7 +17,7 @@ This is a version of the Pig Game. The goal is to score 100 total points before 
 
 ### The challenge
 
-Creating an order summary card where users should be able to see hover states for interactive elements on every screen size.
+Creating a pig game with Javascript that automatically changes player after rolling 1. The app should have a roll, hold and new game buttons.
 
 ### Screenshot
 
